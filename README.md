@@ -6,4 +6,4 @@ Data Analysis and Visualization with Tableau
   - Tableau 2021.1
   - Tableau Prep Builder 2021.1 for Data cleansing and transforming
 
-[See Project in Tableau Public](https://public.tableau.com/app/profile/helena.choi/viz/Cancer1990-2017/Story-Cancer){: .btn .btn-green }
+***[:bar_chart: See Project in Tableau Public](https://public.tableau.com/app/profile/helena.choi/viz/Cancer1990-2017/Story-Cancer)***
